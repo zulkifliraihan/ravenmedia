@@ -157,6 +157,7 @@
 }
 
 .footer-content .copyright {
+  padding-top: 30px;
   color: #b0b2b9;
 }
 
@@ -353,6 +354,10 @@
   margin-top: 70px;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+.logo > img {
+  width: 150px;
 }
 
 /* Max width 767px */

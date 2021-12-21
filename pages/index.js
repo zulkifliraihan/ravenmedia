@@ -46,14 +46,6 @@ const IndexPage = () => {
 
             <Feedbacks />
 
-
-
-            <AppProgressStyle1 />
-
-            <SoftwareIntegrations />
-
-            <FreeTrialStyle1 />
-
             <Footer />
         </>
     )
