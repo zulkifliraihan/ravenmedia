@@ -42,9 +42,9 @@ const Portofolio = () => {
                         <SwiperSlide>
                             <img src="/images/portofolio/website-builder.png" alt="screenshots" />
                         </SwiperSlide>
-                        <SwiperSlide>
+                        {/* <SwiperSlide>
                             <img src="/images/portofolio/e-tender.png" alt="screenshots" />
-                        </SwiperSlide>
+                        </SwiperSlide> */}
                         <SwiperSlide>
                             <img src="/images/portofolio/dashboard-admin.jfif" alt="screenshots" />
                         </SwiperSlide>
