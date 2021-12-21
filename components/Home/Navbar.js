@@ -70,39 +70,39 @@ const Navbar = () => {
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <Link href="#service">
+                                            <a className="nav-link">
                                                 Layanan
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <Link href="#client">
+                                            <a className="nav-link">
                                                 Client
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <Link href="#portofolio">
+                                            <a className="nav-link">
                                                 Portofolio
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                        <Link href="#pricing">
+                                            <a className="nav-link">
                                                 Daftar Harga
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="/contact" activeClassName="active">
+                                        <Link href="#review" activeClassName="active">
                                             <a onClick={toggleNavbar} className="nav-link">
                                                 Review
                                             </a>

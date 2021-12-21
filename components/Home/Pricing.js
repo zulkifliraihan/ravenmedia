@@ -4,7 +4,7 @@ import Link from 'next/link'
 const Pricing = () => {
     return (
         <>
-            <div className="pricing-area bg-gradient-color pt-100 pb-75">
+            <div className="pricing-area bg-gradient-color pt-100 pb-75" id="pricing">
                 <div className="container">
                     <div className="pricing-tabs">
                         <div className="row align-items-center">
@@ -31,7 +31,7 @@ const Pricing = () => {
                                                 Rp 5.000.000 
                                             </div>
 
-                                            <Link href="/sign-in">
+                                            <Link href="https://wa.me/6285691166309">
                                                 <a className="default-btn">Pilih Paket Ini</a>
                                             </Link>
 
@@ -59,7 +59,7 @@ const Pricing = () => {
                                                 Hubungi lebih lanjut
                                             </div>
 
-                                            <Link href="/sign-in">
+                                            <Link href="https://wa.me/6285691166309">
                                                 <a className="default-btn">Pilih Paket ini</a>
                                             </Link>
 

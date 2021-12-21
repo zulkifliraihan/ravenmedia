@@ -43,7 +43,7 @@ const Feedbacks = () => {
 
     return (
         <>
-            <div className="feedback-area ptb-100">
+            <div className="feedback-area ptb-100" id="review">
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">CLIENT REVIEWS</span>

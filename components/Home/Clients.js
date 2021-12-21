@@ -3,7 +3,7 @@ import React from "react";
 const Clients = () => {
     return (
         <>
-            <div className="features-area ptb-100">
+            <div className="features-area ptb-100" id="client">
                 <div className="container">
                     <div className="section-title">
                         <h2>Client Kami</h2>

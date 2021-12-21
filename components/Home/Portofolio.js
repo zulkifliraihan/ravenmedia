@@ -14,7 +14,7 @@ SwiperCore.use([EffectCoverflow, Navigation]);
 const Portofolio = () => {
     return (
         <>
-            <div className="screenshots-area pb-100">
+            <div className="screenshots-area pb-100" id="portofolio">
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">Project Teratas</span>
