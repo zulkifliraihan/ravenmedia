@@ -87,6 +87,11 @@ a:hover {
   vertical-align: middle;
 }
 
+.d-table-cell > img {
+  max-width: 500px;
+  width: 150px; 
+}
+
 img {
   max-width: 100%;
   height: auto;
