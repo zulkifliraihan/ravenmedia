@@ -4,78 +4,100 @@ import Link from 'next/link'
 const Pricing = () => {
     return (
         <>
-            <div className="pricing-area bg-gradient-color pt-100 pb-75" id="pricing">
+
+            <div className="pricing-area bg-black-color pt-100 pb-75">
                 <div className="container">
-                    <div className="pricing-tabs">
-                        <div className="row align-items-center">
-                            <div className="col-lg-4 col-md-12">
-                                <div className="pricing-section-title">
-                                    <span className="sub-title"></span>
-                                    <h2>Daftar Harga</h2>
-                                    <p>
-                                        Harga untuk pembuatan sebuah aplikasi website based maupun mobile based.
-                                        Harga ini belum termasuk pajak dan biaya layanan.
-                                    </p>
+                    <div className="section-title color-white">
+                        <h2>Daftar Harga</h2>
+                        <p>
+                            Harga untuk pembuatan sebuah aplikasi website based maupun mobile based. 
+                            Harga ini belum termasuk pajak dan biaya layanan.
+                        </p>
+                    </div>
+
+                    <div className="row justify-content-center">
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="single-pricing-box">
+                                <div className="title">
+                                    <h3>Basic</h3>
+                                    <p>Powerful & awesome elements</p>
                                 </div>
+                                <div className="price">
+                                    Rp 5.000.000
+                                </div>
+
+                                <Link href="/sign-in">
+                                    <a className="default-btn">Purchase Plan</a>
+                                </Link>
+
+                                <ul className="features-list">
+                                    <li><i className="ri-check-line"></i> Free Domain (.com)</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Unlimited Storage</li>
+                                    <li><i className="ri-check-line"></i> 100 Email Account</li>
+                                    <li><i className="ri-check-line"></i> 3 Month Free Support</li>
+                                    <li><i className="ri-check-line"></i> More than 100 theme</li>
+                                    <li><i className="ri-check-line"></i> SEO & User Friendly</li>
+                                    <li><i className="ri-check-line"></i> 24/7 Live Support</li>
+                                    <li><i className="ri-close-line"></i> Server Access</li>
+                                </ul>
                             </div>
+                        </div>
 
-                            <div className="col-lg-8 col-md-12">
-                                <div className="row">
-                                <div className="col-lg-6 col-md-6 col-sm-6">
-                                        <div className="single-pricing-table">
-                                            <div className="title">
-                                                <h3>Paket Standart</h3>
-                                                <p>Powerful & awesome elements</p>
-                                            </div>
-                                            <div className="price">
-                                                Rp 5.000.000 
-                                            </div>
-
-                                            <Link href="https://wa.me/6285691166309">
-                                                <a className="default-btn">Pilih Paket Ini</a>
-                                            </Link>
-
-                                            <ul className="features-list">
-                                                <li><i className="ri-check-line"></i> Gratis domain .com</li>
-                                                <li><i className="ri-check-line"></i> Gratis hosting (server) </li>
-                                                <li><i className="ri-check-line"></i> Garansi 3 bulan</li>
-                                                <li><i className="ri-check-line"></i> Lebih dari 100 tema pilihan</li>
-                                                <li><i className="ri-check-line"></i> SEO & User Friendly</li>
-                                                <li><i className="ri-check-line"></i> 100 Akun Email</li>
-                                                <li><i className="ri-check-line"></i> 24/7 Live Support</li>
-                                                <li><i className="ri-close-line"></i> Akses Server</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-6 col-md-6 col-sm-6">
-                                        <div className="single-pricing-table">
-                                            <div className="title">
-                                                <h3>Paket Advanced</h3>
-                                                <p>Custom, Powerful & awesome elements</p>
-                                            </div>
-                                            <span className="popular">Most Popular</span>
-                                            <div className="price">
-                                                Hubungi lebih lanjut
-                                            </div>
-
-                                            <Link href="https://wa.me/6285691166309">
-                                                <a className="default-btn">Pilih Paket ini</a>
-                                            </Link>
-
-                                            <ul className="features-list">
-                                                <li><i className="ri-check-line"></i> Gratis semua tipe domain</li>
-                                                <li><i className="ri-check-line"></i> Gratis hosting (server) </li>
-                                                <li><i className="ri-check-line"></i> Garansi 6 Bulan</li>
-                                                <li><i className="ri-check-line"></i> Tema dapat custom</li>
-                                                <li><i className="ri-check-line"></i> SEO & User Friendly</li>
-                                                <li><i className="ri-check-line"></i> Unlimited Akun Email</li>
-                                                <li><i className="ri-check-line"></i> 24/7 Live Support</li>
-                                                <li><i className="ri-check-line"></i> Akses Server</li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="single-pricing-box active">
+                                <div className="title">
+                                    <h3>Business</h3>
+                                    <p>Powerful, fast & awesome elements</p>
                                 </div>
+                                <span className="popular">Most Popular</span>
+                                <div className="price">
+                                    Rp 10.000.000   
+                                </div>
+                                
+                                <Link href="/sign-in">
+                                    <a className="default-btn">Purchase Plan</a>
+                                </Link>
+
+                                <ul className="features-list">
+                                    <li><i className="ri-check-line"></i> Free All Domain</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Unlimited Storage</li>
+                                    <li><i className="ri-check-line"></i> Unlimited Email Account</li>
+                                    <li><i className="ri-check-line"></i> 6 Month Free Support</li>
+                                    <li><i className="ri-check-line"></i> More than 1000 theme</li>
+                                    <li><i className="ri-check-line"></i> SEO & User Friendly</li>
+                                    <li><i className="ri-check-line"></i> 24/7 Live Support</li>
+                                    <li><i className="ri-check-line"></i> Server Access</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div className="col-lg-4 col-md-6 col-sm-6">
+                            <div className="single-pricing-box">
+                                <div className="title">
+                                    <h3>Customizing</h3>
+                                    <p>All elements customizing</p>
+                                </div>
+                                <div className="price">
+                                    Hubungi lebih lanjut
+                                </div>
+
+                                <Link href="/sign-in">
+                                    <a className="default-btn">Purchase Plan</a>
+                                </Link>
+                                
+                                <ul className="features-list">
+                                    <li><i className="ri-check-line"></i> Free All Domain</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Unlimited Storage</li>
+                                    <li><i className="ri-check-line"></i> Unlimited Email Account</li>
+                                    <li><i className="ri-check-line"></i> 12 Month Free Support</li>
+                                    <li><i className="ri-check-line"></i> Theme Customize</li>
+                                    <li><i className="ri-check-line"></i> SEO & User Friendly</li>
+                                    <li><i className="ri-check-line"></i> 24/7 Live Support</li>
+                                    <li><i className="ri-check-line"></i> Server Access</li>
+                                </ul>
                             </div>
                         </div>
                     </div>

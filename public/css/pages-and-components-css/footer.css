@@ -1,5 +1,6 @@
 .footer-area {
-  background-color: var(--blackColor);
+  background-color: #e4e4e4;
+  /* background-color: var(--bs-secondary); */
   padding-top: 100px;
   padding-bottom: 90px;
 }
@@ -158,7 +159,8 @@
 
 .footer-content .copyright {
   padding-top: 30px;
-  color: #b0b2b9;
+  color: var(--blackColor);;
+  /* color: #b0b2b9; */
 }
 
 .footer-content .copyright strong {
@@ -166,7 +168,7 @@
 }
 
 .footer-content .copyright a {
-  color: var(--whiteColor);
+  color: var(--blackColor);
 }
 
 .footer-content .copyright a:hover {
