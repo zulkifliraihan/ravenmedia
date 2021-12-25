@@ -101,13 +101,14 @@ const Navbar = () => {
                                         </Link>
                                     </li>
 
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="#review" activeClassName="active">
                                             <a onClick={toggleNavbar} className="nav-link">
                                                 Review
                                             </a>
                                         </Link>
-                                    </li>
+                                    </li> */}
+                                    
                                 </ul>
                             </div>
 

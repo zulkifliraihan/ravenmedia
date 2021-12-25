@@ -5,7 +5,7 @@ const Pricing = () => {
     return (
         <>
 
-            <div className="pricing-area bg-black-color pt-100 pb-75">
+            <div className="pricing-area bg-black-color pt-100 pb-75" id="pricing">
                 <div className="container">
                     <div className="section-title color-white">
                         <h2>Daftar Harga</h2>

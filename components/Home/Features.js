@@ -50,7 +50,7 @@ const Features = () => {
                                 <div className="icon bg4">
                                     <i className="ri-vip-diamond-line"></i>
                                 </div>
-                                <h3>Lifetime Update</h3>
+                                <h3>Tech Stack</h3>
                                 <p>
                                     Kami memberikan garansi pada website, jika ada terkendala pada aplikasi kami siap melakukan perbaikan secara Gratis
                                 </p>

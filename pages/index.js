@@ -33,7 +33,7 @@ const IndexPage = () => {
 
             <Pricing />
 
-            <Feedbacks />
+            {/* <Feedbacks /> */}
 
             <Footer />
         </>

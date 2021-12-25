@@ -48,7 +48,7 @@ const Techstacks = () => {
             <div className="partner-area ptb-100">
                 <div className="container">
                     <div className="partner-title">
-                        Teknologi yang kami gunakan:
+                        Our Tech Stack:
                     </div>
 
                     {display ? <OwlCarousel 
