@@ -4,7 +4,7 @@
   right: 0;
   z-index: 99;
   position: absolute;
-  background-color: transparent;
+  background-color: #ffffff;
 }
 
 .navbar-area.is-sticky {

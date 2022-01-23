@@ -3,7 +3,7 @@ import React from 'react';
 const Features = () => {
     return (
         <>
-            <div className="features-area pt-50      pb-75">
+            <div className="features-area pt-50 pb-75">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-xl-3 col-lg-3 col-6 xsw-100 col-md-6">

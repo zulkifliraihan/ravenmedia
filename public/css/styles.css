@@ -135,7 +135,7 @@ p:last-child {
 }
 
 .bg-F7F7FF {
-  background-color: #F7F7FF;
+  background-color: var(--blackColor);
 }
 
 .bg-F4F8FC {
@@ -1132,4 +1132,8 @@ textarea.form-control {
   max-width: 350px;
   width: 100%;
   height: auto;
+}
+
+.title-features {
+  color: var(--whiteColor);
 }
