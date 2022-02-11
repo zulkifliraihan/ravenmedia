@@ -4,11 +4,11 @@ import Link from 'next/link';
 const KeyFeatures = () => {
     return (
         <>
-            <div className="features-area ptb-100 bg-F7F7FF" id="service">
+            <div className="features-area ptb-100 bg-dark-color" id="service">
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">Bagaimana Kami Membantu Anda?</span>
-                        <h2 className="title-features">Our Services</h2>
+                        <h2 className="title-features">Layanan Kami</h2>
                     </div>
 
                     <div className="row justify-content-center">

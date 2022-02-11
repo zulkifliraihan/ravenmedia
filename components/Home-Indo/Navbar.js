@@ -64,7 +64,7 @@ const Navbar = () => {
                                     <li className="nav-item">
                                         <Link href="#about">
                                             <a className="nav-link">
-                                                About Us
+                                                Tentang
                                             </a>
                                         </Link>
                                     </li>
@@ -72,7 +72,7 @@ const Navbar = () => {
                                     <li className="nav-item megamenu">
                                         <Link href="#service">
                                             <a className="nav-link">
-                                                Services
+                                                Layanan
                                             </a>
                                         </Link>
                                     </li>
@@ -86,20 +86,22 @@ const Navbar = () => {
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#portofolio">
+                                        <Link href="#pricing">
                                             <a className="nav-link">
-                                                Portofolios
+                                                Daftar Harga
                                             </a>
                                         </Link>
                                     </li>
 
                                     <li className="nav-item megamenu">
-                                        <Link href="#pricing">
+                                        <Link href="#portofolio">
                                             <a className="nav-link">
-                                                Price List
+                                                Portofolio
                                             </a>
                                         </Link>
                                     </li>
+
+                                    
 
                                     {/* <li className="nav-item">
                                         <Link href="#review" activeClassName="active">
@@ -112,13 +114,15 @@ const Navbar = () => {
                                 </ul>
                             </div>
 
+
                             <div className="others-options">
-                                <Link href="/">
+                                <Link href="/en">
                                     <a className="default-btn">
-                                        Bahasa Indonesia
+                                        Bahasa Inggris
                                     </a>
                                 </Link>
                             </div>
+
                         </nav>
                     </div>
                 </div>

@@ -22,7 +22,9 @@ const   Footer = () => {
                                 
                                 {/* <p>Best solution for your IT business.</p> */}
                                 <p>
-                                we are here to help you to grow your business in this fast-developing world.
+                                Raven media adalah agensi digital yang telah berdiri sejak tahun 2019, Kami
+                                hadir untuk membantu Anda dalam mengembangkan bisnis di dunia digital
+                                yang berkembang pesat ini.
                                 </p>
 
                             </div>
@@ -34,12 +36,12 @@ const   Footer = () => {
                                 <ul className="links-list">
                                     <li>
                                         <Link href="#about">
-                                            <a>About Us</a>
+                                            <a>Tentang Kami</a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#service">
-                                            <a>Our Services</a>
+                                            <a>Layanan Kami</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -49,7 +51,7 @@ const   Footer = () => {
                                     </li>
                                     <li>
                                         <Link href="#pricing">
-                                            <a>Price List</a>
+                                            <a>Daftar Harga</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -63,12 +65,12 @@ const   Footer = () => {
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-footer-widget">
-                                <h3>Address </h3>
+                                <h3>Alamat </h3>
                                 <p>
                                     Jl. Gaga Semanan Rt06/04 No.99 Kel.Semanan Kec. Kalideres Jakarta Barat 11850
                                 </p>
 
-                                <h3>Contact Us </h3>
+                                <h3>Hubungi Kami </h3>
                                 <p>
                                     +62 87789142851
                                     <br/>

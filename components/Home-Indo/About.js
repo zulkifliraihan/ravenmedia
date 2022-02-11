@@ -11,15 +11,31 @@ const About = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="about-content">
-                                <span className="sub-title">ABOUT US</span>
-                                <h2 className="clr-white">Who we are?</h2>
-                                <p className="clr-white">
-                                    we are here to help you to grow your business in this fast-developing world. 
-                                    For you, our team will build, develop,and handle your social media business, android & ios apps and website asper your requirement 
-                                    and our team of expert will also help you excel in terms of strategy, technology, creation, and content. With the right solutions for each domain and in each industry. 
+                                <span className="sub-title">TENTANG KAMI</span>
+                                <h2 className="clr-white">Siapa Kami?</h2>
+                                
+                                <p className="clr-white mt-4">
+                                    Raven Media adalah agensi digital yang telah berdiri sejak tahun 2019, Kami
+                                    hadir untuk membantu Anda dalam mengembangkan bisnis di dunia digital
+                                    yang berkembang pesat ini. Untuk Anda, tim kami akan membuat dan
+                                    mengembangkan aplikasi untuk Android &amp; IOS, dan Situs Web yang sesuai
+                                    dengan kebutuhan bisnis anda dan tim ahli kami juga akan bisa membantu
+                                    untuk mengelola bisnis anda dalam dunia digital untuk unggul dalam hal
+                                    strategi, teknologi, kreasi, dan konten. Dengan solusi yang tepat untuk setiap
+                                    domain dan di setiap industri.
                                 </p>
                                 
-                                <div className="features-text">
+                                <p className="clr-white">
+                                    Bagi banyak klien kami, Tim kami tidak hanya sebagai pihak ketiga, tetapi kami menghadirkan solusi
+                                    yang kredibel dan strategis yang mencakup semua aspek arena digital. Kami bekerja langsung
+                                    dengan klien kami secara ambisius dalam merumuskan rencana untuk mendapatkan hasil terbaik
+                                    dari pembelajaan dan pemasaran digital mereka. Tim ahli kami yang berpengalaman akan membawa
+                                    inovasi Anda secara online, mengarahkan dan memberikan kombinasi terbaik dari pengembangan
+                                    web, pengoptimalan pencarian, manajemen konversi, peningkatan e-niaga, dan manajemen media
+                                    sosial yang diperlukan untuk memenuhi tujuan akhir.
+                                </p>
+
+                                {/* <div className="features-text">
                                     <h6 className="clr-white">Technology</h6>
                                     <p className="clr-white">
                                         Our extensive tech stack guarantees freedom in development, testing, support and maintenance. Count on the best match with your project.
@@ -45,7 +61,7 @@ const About = () => {
                                     <p className="clr-white">
                                         We feed your audience with the right content at the right time, in word and image, throughout the entire customer journey.
                                     </p>
-                                </div>
+                                </div> */}
 
                             </div>
                         </div>

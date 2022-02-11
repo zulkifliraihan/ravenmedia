@@ -1137,3 +1137,35 @@ textarea.form-control {
 .title-features {
   color: var(--whiteColor);
 }
+
+.img-gray-hover {
+  filter: grayscale(100%);
+}
+
+.img-gray-hover:hover {
+  filter: grayscale(0%);
+}
+
+.img-gagak {
+  float: right;
+  padding-right: -80px;
+}
+
+.bg-image-gagak {
+  background-image: url('/images/gagak.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
+}
+
+.bg-dark-color {
+  background-color: #4d5053;
+}
+
+.clr-white {
+  color: var(--whiteColor)!important;
+}
+
+.ml-90-px {
+  margin-left: 90px;
+}

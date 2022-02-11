@@ -19,7 +19,7 @@ const FooterStyleThree = () => {
                                         <img src="/images/logo.png" alt="logo" />
                                     </a>
                                 </Link>
-
+                                
                                 <p>Best solution for your it startup business, consecteturadipiscing elit. Scelerisque amet odio velit,  auctor nam elit nulla.</p>
 
                                 <ul className="social-links">
