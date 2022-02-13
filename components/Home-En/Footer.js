@@ -36,12 +36,12 @@ const   Footer = () => {
                                 <ul className="links-list">
                                     <li>
                                         <Link href="#about">
-                                            <a>Tentang Kami</a>
+                                            <a>About Us</a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#service">
-                                            <a>Layanan Kami</a>
+                                            <a>Our Services</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -51,12 +51,12 @@ const   Footer = () => {
                                     </li>
                                     <li>
                                         <Link href="#pricing">
-                                            <a>Daftar Harga</a>
+                                            <a>Price List</a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#portofolio">
-                                            <a>Portofolio</a>
+                                            <a>Portofolios</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -65,12 +65,12 @@ const   Footer = () => {
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-footer-widget">
-                                <h3>Alamat </h3>
+                                <h3>Find Us</h3>
                                 <p>
                                     Jl. Gaga Semanan Rt06/04 No.99 Kel.Semanan Kec. Kalideres Jakarta Barat 11850
                                 </p>
 
-                                <h3>Hubungi Kami </h3>
+                                <h3>Contact Us </h3>
                                 <p>
                                     +62 87789142851
                                     <br/>

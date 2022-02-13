@@ -9,14 +9,14 @@ const Banner = () => {
                 <div className="container">
                     <div className="content">
                         <h1>
-                            Website creation services with in-depth research use the most effective and efficient way to achieve your Marketing Goals!
+                        Website creation services with in-depth research use the most effective and efficient way to achieve your Marketing Goals!
                         </h1>
 
                         <Link href="https:://wa.me/6287789142851">
-                            <a className="default-btn">Hubungi Sekarang</a>
+                            <a className="default-btn">Contact Us</a>
                         </Link>
 
-                        <img className='img-gray-hover' src="/images/5172476.jpg" alt="image" />
+                        <img src="/images/image-front.jpg" alt="image" />
                     </div>
                 </div>
 

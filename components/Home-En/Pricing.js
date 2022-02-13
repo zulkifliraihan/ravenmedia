@@ -8,13 +8,12 @@ const Pricing = () => {
             <div className="pricing-area bg-dark-color pt-100 pb-75" id="pricing">
                 <div className="container">
                     <div className="section-title color-white">
-                        <h2>Daftar Harga</h2>
+                        <h2>Price List</h2>
                         <p className="clr-white">
-                            Harga untuk pembuatan sebuah aplikasi website based maupun mobile based. 
-                            Harga ini belum termasuk pajak dan biaya layanan.
+                            The price for the creation of a website based or mobile based application. This price does not include taxes and service fees.
                         </p>
                     </div>
-
+                    
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box">
@@ -27,19 +26,19 @@ const Pricing = () => {
                                 </div>
 
                                 <Link href="https:://wa.me/6287789142851">
-                                    <a className="default-btn">Hubungi Sekarang!</a>
+                                    <a className="default-btn">Purchase Plan</a>
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Gratis Domain (.com)</li>
-                                    <li><i className="ri-check-line"></i> Gratis Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Free Domain (.com)</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
                                     <li><i className="ri-check-line"></i> Unlimited Storage</li>
                                     <li><i className="ri-check-line"></i> 100 Email Account</li>
-                                    <li><i className="ri-check-line"></i> 3 Bulan Gratis Support</li>
-                                    <li><i className="ri-check-line"></i> Lebih dari 100 theme</li>
+                                    <li><i className="ri-check-line"></i> 3 Month Free Support</li>
+                                    <li><i className="ri-check-line"></i> More than 100 theme</li>
                                     <li><i className="ri-check-line"></i> SEO & User Friendly</li>
                                     <li><i className="ri-check-line"></i> 24/7 Live Support</li>
-                                    <li><i className="ri-close-line"></i> Server Akses</li>
+                                    <li><i className="ri-close-line"></i> Server Access</li>
                                 </ul>
                             </div>
                         </div>
@@ -56,19 +55,19 @@ const Pricing = () => {
                                 </div>
                                 
                                 <Link href="https:://wa.me/6287789142851">
-                                    <a className="default-btn">Hubungi Sekarang!</a>
+                                    <a className="default-btn">Purchase Plan</a>
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Gratis All Domain</li>
-                                    <li><i className="ri-check-line"></i> Gratis Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Free All Domain</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
                                     <li><i className="ri-check-line"></i> Unlimited Storage</li>
                                     <li><i className="ri-check-line"></i> Unlimited Email Account</li>
-                                    <li><i className="ri-check-line"></i> 6 Bulan Gratis Support</li>
-                                    <li><i className="ri-check-line"></i> Lebih dari 1000 theme</li>
+                                    <li><i className="ri-check-line"></i> 6 Month Free Support</li>
+                                    <li><i className="ri-check-line"></i> More than 1000 theme</li>
                                     <li><i className="ri-check-line"></i> SEO & User Friendly</li>
                                     <li><i className="ri-check-line"></i> 24/7 Live Support</li>
-                                    <li><i className="ri-check-line"></i> Server Akses</li>
+                                    <li><i className="ri-check-line"></i> Server Access</li>
                                 </ul>
                             </div>
                         </div>
@@ -80,27 +79,28 @@ const Pricing = () => {
                                     <p>All elements customizing</p>
                                 </div>
                                 <div className="price">
-                                    Hubungi lebih lanjut
+                                    Contact more
                                 </div>
 
                                 <Link href="https:://wa.me/6287789142851">
-                                    <a className="default-btn">Hubungi Sekarang!</a>
+                                    <a className="default-btn">Purchase Plan</a>
                                 </Link>
                                 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Gratis All Domain</li>
-                                    <li><i className="ri-check-line"></i> Gratis Hosting (Server) </li>
+                                    <li><i className="ri-check-line"></i> Free All Domain</li>
+                                    <li><i className="ri-check-line"></i> Free Hosting (Server) </li>
                                     <li><i className="ri-check-line"></i> Unlimited Storage</li>
                                     <li><i className="ri-check-line"></i> Unlimited Email Account</li>
-                                    <li><i className="ri-check-line"></i> 12 Bulan Gratis Support</li>
+                                    <li><i className="ri-check-line"></i> 12 Month Free Support</li>
                                     <li><i className="ri-check-line"></i> Theme Customize</li>
                                     <li><i className="ri-check-line"></i> SEO & User Friendly</li>
                                     <li><i className="ri-check-line"></i> 24/7 Live Support</li>
-                                    <li><i className="ri-check-line"></i> Server Akses</li>
+                                    <li><i className="ri-check-line"></i> Server Access</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
+
                 </div>
 
                 {/* Shape Images */}

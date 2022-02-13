@@ -13,8 +13,7 @@ const Features = () => {
                                 </div>
                                 <h3>User Friendly</h3>
                                 <p>
-                                    Didesain sebaik mungkin untuk kemudahan user dari segi tampilan maupun experience 
-                                    dan tentu saja SEO Friendly.
+                                    Designed as best as possible for user convenience in terms of appearance and experience and of course SEO Friendly.
                                 </p>
                             </div>
                         </div>
@@ -26,9 +25,7 @@ const Features = () => {
                                 </div>
                                 <h3>24 Hours Support</h3>
                                 <p>
-                                    Tim Profesional Ravenmedia selalu siap membantu setiap kendala yang dialami 
-                                    ataupun konsultasi 
-                                    melalui e-mail, telp, dan chat.
+                                    Ravenmedia Team is always ready to help any obstacles experienced or consulted by e-mail, phone, and chat.
                                 </p>
                             </div>
                         </div>
@@ -40,7 +37,7 @@ const Features = () => {
                                 </div>
                                 <h3>Security Protected</h3>
                                 <p>
-                                    Keamanan aplikasi selalu menjadi prioritas kami dengan mengupayakan segala yang terbaik untuk Keamanan sebuah aplikasi.
+                                Application security is always our priority by doing everything in our best for the security of an application.
                                 </p>
                             </div>
                         </div>
@@ -52,7 +49,7 @@ const Features = () => {
                                 </div>
                                 <h3>Tech Stack</h3>
                                 <p>
-                                    Kami memberikan garansi pada website, jika ada terkendala pada aplikasi kami siap melakukan perbaikan secara Gratis
+                                We provide a warranty on the website, if there are restrictions on the application we are ready to make repairs for free
                                 </p>
                             </div>
                         </div>

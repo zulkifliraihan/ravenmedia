@@ -12,11 +12,11 @@ const Banner = () => {
                             Jasa Pembuatan Website dengan riset yang mendalam menggunakan cara paling efektif dan efisien untuk mencapai Goal Marketing Anda!
                         </h1>
 
-                        <Link href="https://wa.me/6281294468841">
+                        <Link href="https:://wa.me/6287789142851">
                             <a className="default-btn">Hubungi Sekarang</a>
                         </Link>
 
-                        <img className='img-gray-hover' src="/images/5172476.jpg" alt="image" />
+                        <img src="/images/image-front.jpg" alt="image" />
                     </div>
                 </div>
 
