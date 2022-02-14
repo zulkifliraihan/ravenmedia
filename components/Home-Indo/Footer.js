@@ -76,6 +76,14 @@ const   Footer = () => {
                                     <br/>
                                     021 (5447740)
                                 </p>
+                                <h3>Email Kami </h3>
+                                <p>
+                                    ravenmediaindonesia@gmail.com
+                                    <br/>
+                                    atau
+                                    <br/>
+                                    info@ravenmedia.id
+                                </p>
 
 
                                 {/* <form className="newsletter-form" onSubmit={e => e.preventDefault()}>

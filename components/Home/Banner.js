@@ -12,7 +12,7 @@ const Banner = () => {
                             Website creation services with in-depth research use the most effective and efficient way to achieve your Marketing Goals!
                         </h1>
 
-                        <Link href="https:://wa.me/6287789142851">
+                        <Link href="https://wa.me/6287789142851">
                             <a className="default-btn">Hubungi Sekarang</a>
                         </Link>
 

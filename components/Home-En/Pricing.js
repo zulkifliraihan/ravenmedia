@@ -25,7 +25,7 @@ const Pricing = () => {
                                     Rp 5.000.000
                                 </div>
 
-                                <Link href="https:://wa.me/6287789142851">
+                                <Link href="https://wa.me/6287789142851">
                                     <a className="default-btn">Purchase Plan</a>
                                 </Link>
 
@@ -54,7 +54,7 @@ const Pricing = () => {
                                     Rp 10.000.000   
                                 </div>
                                 
-                                <Link href="https:://wa.me/6287789142851">
+                                <Link href="https://wa.me/6287789142851">
                                     <a className="default-btn">Purchase Plan</a>
                                 </Link>
 
@@ -82,7 +82,7 @@ const Pricing = () => {
                                     Contact more
                                 </div>
 
-                                <Link href="https:://wa.me/6287789142851">
+                                <Link href="https://wa.me/6287789142851">
                                     <a className="default-btn">Purchase Plan</a>
                                 </Link>
                                 
