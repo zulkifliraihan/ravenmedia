@@ -16,7 +16,7 @@ const Banner = () => {
                             <a className="default-btn">Hubungi Sekarang</a>
                         </Link>
 
-                        <img src="/images/772 [Converted].png" alt="image" />
+                        <img src="/images/772.png" alt="image" />
                     </div>
                 </div>
 
