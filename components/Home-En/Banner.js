@@ -16,7 +16,7 @@ const Banner = () => {
                             <a className="default-btn">Contact Us</a>
                         </Link>
 
-                        <img src="/images/image-front.jpg" alt="image" />
+                        <img src="/images/772 [Converted].png" alt="image" />
                     </div>
                 </div>
 
